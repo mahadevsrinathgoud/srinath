@@ -1,2 +1,0 @@
-# srinath
-Student Attendance
